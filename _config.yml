@@ -1,4 +1,4 @@
-baseurl: /Kevin
+baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
