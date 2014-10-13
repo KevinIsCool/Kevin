@@ -57,16 +57,23 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
-
-  ul.posts li {
+/*
+ margin:10px;
+	text-decoration:none;
+*/
+ .posts li {
     line-height: 1.75em;
+	margin:10px;
+	text-decoration:none;
   }
-
-  ul.posts span {
+/*
+  changd
+*/
+.posts li span {
     color: red;
     font-family: Monaco, "Courier New", monospace;
     font-size: 100%;
