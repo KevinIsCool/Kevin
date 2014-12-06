@@ -16,14 +16,14 @@ category: tech
 ###二. 虚拟机配置
 首先不要打开虚拟机里的系统。     
 设置 -> 串口：（如下图）    
-![VirtualBoxSettings]({{ site.rul }}/images/20141124/VirtualBoxSettings.jpg)    
+![VirtualBoxSettings]({{ site.url }}/images/20141124/VirtualBoxSettings.jpg)    
 启动：串口1    
 端口模式：主机管道    
 启用：创建通道    
 端口/文件位置：\\\\.\pipe\COM_1
 ###三. windows 7系统配置
 进入系统，以Administrator权限启动Command Line，键入命令：`bcdedit`，如下图。（因为我已经配置好了，所以会有3项）    
-![DebuggedSystemSettings]({{ site.rul }}/images/20141124/DebuggedSystemSettings.png)    
+![DebuggedSystemSettings]({{ site.url }}/images/20141124/DebuggedSystemSettings.png)    
 配置的命令依次为：    
 1 设置端口COM1，比特率115200  
 {% highlight C %}  
@@ -43,7 +43,7 @@ bcdedit /displayorder {current} {ID}
 bcdedit /debug {ID}
 {% endhighlight %}     
 5 然后打开msconfig（打开Run：输入msconfig），在Boot项中选中刚刚新建的启动项，再选Advanced options，选中Debug、Debug port、Baud rate（默认已经选上了，如下图）。    
-![DebuggedSystemBootSettings]({{ site.rul }}/images/20141124/DebuggedSystemBootSettings.png)        
+![DebuggedSystemBootSettings]({{ site.url }}/images/20141124/DebuggedSystemBootSettings.png)        
 
 ###四. Windbg配置
 Windbg下载：[Here](http://www.windbg.org/)    
@@ -51,7 +51,7 @@ Windbg下载：[Here](http://www.windbg.org/)
 {% highlight C %}
 -b -k com:port=\\.\pipe\com_1,baud=115200,pipe
 {% endhighlight %}
-![WindbgSettings]({{ site.rul }}/images/20141124/WindbgSettings.png)    
+![WindbgSettings]({{ site.url }}/images/20141124/WindbgSettings.png)    
 ###五. 完成
 到目前，所有的配置工作基本就完成了。    
 然后启动Windbg，会显示：    
