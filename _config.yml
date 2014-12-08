@@ -1,0 +1,6 @@
+﻿markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://www.llokt.com/Kevin/
+author: Kevin
+lsi: false
+pygments: true
