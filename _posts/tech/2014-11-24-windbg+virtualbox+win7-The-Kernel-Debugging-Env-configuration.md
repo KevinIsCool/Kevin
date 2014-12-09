@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windbg+VirtualBox+win7内核调试环境配置
+title: Windbg VirtualBox win7内核调试环境配置
 category: tech
 ---
 
@@ -54,7 +54,7 @@ Windbg下载：[Here](http://www.windbg.org/)
 然后启动Windbg，会显示：    
 `waiting to connect ...`    
 然后启动系统，到系统进入引导时，会被中断，Windbg显示如下：    
-![OK]({{ site.rul }}/images/20141124/OK.png)      
+![OK]({{ site.url }}/images/20141124/OK.png)      
 ###六. 符号目录配置
 如上图，我们可以看到有两个ERROR：`Symbol file could not be found.`    
 下面是如何配置Symbol目录。    
