@@ -2,6 +2,10 @@
 layout: post
 title: Windbg VirtualBox win7 内核调试环境配置
 category: tech
+tags:
+- 配置
+- Windows
+- Kernel
 excerpt: Harbin
 ---
 

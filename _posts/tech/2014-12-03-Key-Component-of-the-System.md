@@ -2,12 +2,13 @@
 layout: post
 title: Windows系统架构之关键的系统组件
 category: tech
+tags:
+- Windows    
+- 系统组件    
+- DLL
+excerpt: Harbin
 ---
 
-
-{{ page.title }}
-================
-<p class="meta">03 December 2014 - Harbin</p>
 
 ##关键的系统组件
 ###环境子系统和子系统DLL

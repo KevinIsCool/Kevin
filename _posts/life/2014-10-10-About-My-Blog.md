@@ -2,11 +2,11 @@
 layout: post
 title: 第一个故事 Jekyll+Github Page博客搭建
 category: life
+tags:
+- Jekyll
+- GitHub Pages
+excerpt: Harbin
 ---
-
-{{ page.title }}
-================
-<p class="meta">10 October 2014 - Harbin</p>
 
 刚找完工作，才有时间空下来整理一下一直想弄的博客。
 

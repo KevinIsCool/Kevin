@@ -2,11 +2,12 @@
 layout: post
 title: 说说 printf/scanf 的格式控制符
 category: tech
+tags:
+- Printf
+- Disassemble
+excerpt: Harbin
 ---
 
-{{ page.title }}
-================
-<p class="meta">06 November 2014 - Harbin</p>
 
 昨天在反汇编的过程中，遇到一条printf的控制语句：
 {% highlight C %}

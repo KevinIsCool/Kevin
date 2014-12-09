@@ -2,11 +2,12 @@
 layout: post
 title: Intel Pin 的配置以及一个简单的例子
 category: tech
+tags:
+- 配置
+- Bin
+- Windows
+excerpt: Harbin
 ---
-
-{{ page.title }}
-================
-<p class="meta">20 November 2014 - Harbin</p>
 
 关于Pin框架就不再组织语言来描述一下了，具体的可以到如下的网站上学习：
 [Pin 2.14 User Guide](https://software.intel.com/sites/landingpage/pintool/docs/67254/Pin/html/)
