@@ -16,7 +16,7 @@ layout: default
     <!--</span>-->
     <!--{% endif %}-->
     <span>
-        <time datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}-{{ page.excerpt }}</time>
+        <time datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }} - {{ page.excerpt }}</time>
     </span>
     {% if page.tags %}
     <span class="tags">
