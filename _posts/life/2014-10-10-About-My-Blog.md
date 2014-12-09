@@ -30,13 +30,6 @@ excerpt: Harbin
 >4. [使用 GitHub, Jekyll 打造自己的免费独立博客](http://blog.csdn.net/on_1y/article/details/19259435)
 
 
-关于网站的模板。我用的是：[Tom Preston-Werner](http://tom.preston-werner.com/)源代码：[github.com](https://github.com/mojombo/mojombo.github.io)。做了很多改动，就成我做的样子了。
-
-搞定博客，接下来就是写写文章了。
-
-
-
-
 
 
 
