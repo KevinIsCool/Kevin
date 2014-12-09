@@ -16,7 +16,7 @@ layout: default
     <!--</span>-->
     <!--{% endif %}-->
     <span>
-        <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+        <time datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>
     </span>
     {% if page.tags %}
     <span class="tags">
