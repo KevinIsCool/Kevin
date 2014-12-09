@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Windbg+VirtualBox+win7 内核调试环境配置
+title: Windbg+VirtualBox+win7内核调试环境配置
 category: tech
 ---
 
-
-{{ page.title }}
-================
 <p class="meta">24 November 2014 - Harbin</p>
 
 
