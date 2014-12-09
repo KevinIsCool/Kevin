@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Windbg VirtualBox win7内核调试环境配置
+title: Windbg VirtualBox win7 内核调试环境配置
 category: tech
+location: Harbin
 ---
-
-<p class="meta">24 November 2014 - Harbin</p>
-
 
 看了网上很多的教程，一般都是`Windbg+Vmware+win7`和`Windbg+VirtualBox+xp`或者是`Windbg+Vmware+XP`的，没有找到`Windbg+VirtualBox+win7`的，于是只能根据一个VMware的自己配置一下，看看运气如何了。验证过后，发现，有效。下面分6个部分，简要叙述。    
 ###一. 虚拟机和windows 7系统安装
