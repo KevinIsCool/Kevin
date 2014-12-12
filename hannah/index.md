@@ -2,7 +2,7 @@
 layout: post
 title: hanghou-->quzhou
 logo: http://www.llokt.com/Kevin/images/201412/StillU.png
-categories: Life
+category: Life
 tags:
 - hangzhou
 excerpt: Harbin
