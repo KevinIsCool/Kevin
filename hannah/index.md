@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: hangzhou  quzhou
 logo: http://www.llokt.com/Kevin/images/201412/StillU.png
 category: Life
