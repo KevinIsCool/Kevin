@@ -1,6 +1,6 @@
 ---
 layout: post
-logo: http://www/llokt.com/Kevin/images/201412/stillU.png
+logo: http://www/llokt.com/Kevin/images/201412/StillU.png
 title: 杭州-->衢州
 ---
 
