@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 杭州-->衢州
 ---
 
