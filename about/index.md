@@ -1,12 +1,6 @@
 ---
 layout: page
 title: 只恨太匆匆
-logo: http://www.llokt.com/Kevin/images/201412/Lavandula.jpg
-category: Life
-tags: 
-- Time
-- Still
-excerpt: Harbin
 ---
 
 ![hi]({{ site.url }}/images/201412/Lavandula.jpg)    
