@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Register、Debug Event and Breakpoint
+title: Register Debug Event and Breakpoint
 category: tech
 tags: 
 - Register
