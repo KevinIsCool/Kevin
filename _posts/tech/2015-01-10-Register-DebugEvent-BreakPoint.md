@@ -47,5 +47,6 @@ excerpt: Harbin
 汇编指令是CPU可以识别和执行的指令的一种高级表现形式，我们称之为助记符，以下是一个简单的例子：    
 {% highlight Assember %}
 MOV EAX, EBX
-{% endhighlight%}
+{% endhighlight%}    
+这条指令的意思是告诉CPU将EBX中的值存入EAX中。但是CPU并不能识别这种形式的指令，它首先需要将汇编语言转换为操作码（又被称为Opcode），Opcode才是。
 
