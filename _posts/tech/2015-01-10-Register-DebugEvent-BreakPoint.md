@@ -48,5 +48,13 @@ excerpt: Harbin
 {% highlight C %}
 MOV EAX, EBX
 {% endhighlight%}    
-这条指令的意思是告诉CPU将EBX中的值存入EAX中。但是CPU并不能识别这种形式的指令，它首先需要将汇编语言转换为操作码（又被称为Opcode），Opcode才是。
-
+这条指令的意思是告诉CPU将EBX中的值存入EAX中。但是CPU并不能识别这种形式的指令，它首先需要将汇编语言转换为操作码（又被称为Opcode），Opcode才是CPU能真正识别和执行的机器语言。为了说明这一点，我们将以上的汇编语言转换为本地x86环境下的操作码：    
+{% highlight C %}
+8BC3
+{% endhighlight%}     
+虽然通过以上的语言，我们很难知道操作码真正做了什么事情，但是这正是CPU所使用的语言。在日常的调试过程中，我们很少会用到Opcode，但是这对理解软断点很重要。    
+假设上一条指令位于内存地址0x44332211处，一个常见的形式为：    
+{% highlight C %}
+0x44332211:    8BC3    MOV EAX, EBX
+{% endhighlight%}     
+这其中包含了指令地址、指令操作码和高级的汇编指令。
