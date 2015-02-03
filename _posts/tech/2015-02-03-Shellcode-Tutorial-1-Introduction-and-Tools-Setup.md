@@ -22,5 +22,7 @@ excerpt: Hangzhou
 **所以，对于Windows怎么办？我该如何找到我所需的DLL中函数的地址？这些地址会随着每一次服务包的升级而改变么？**    
 [http://www.vividmachines.com/shellcode/shellcode.html](http://www.vividmachines.com/shellcode/shellcode.html)    
 
-有很多的方法可以找到你的Shellcode中所需的函数的地址。其中有两种方法是：运行时定位函数地址和使用硬编码。该教程更倾向于讨论硬编码的方法。唯一确定需要映射进Shellcode地址空间的DLL是kernel32.dll。该DLL中导出了LoadLibrary 和GetProcAddress函数，这两个函数可以获得那些任何可以映射进exploits进程空间的函数地址。这种方法有一个问题，（函数）地址的偏移量会随着Windows新版本的更新而改变（服务包，补丁等）。所以，如果你用这种方法，你的Shellcode将只能运行在特定版本的Windows之上。    动态查找函数地址将在之后的教程中讲解。    
+有很多的方法可以找到你的Shellcode中所需的函数的地址。其中有两种方法是：运行时定位函数地址和使用硬编码。该教程更倾向于讨论硬编码的方法。唯一确定需要映射进Shellcode地址空间的DLL是kernel32.dll。该DLL中导出了LoadLibrary 和GetProcAddress函数，这两个函数可以获得那些任何可以映射进exploits进程空间的函数地址。这种方法有一个问题，（函数）地址的偏移量会随着Windows新版本的更新而改变（服务包，补丁等）。所以，如果你用这种方法，你的Shellcode将只能运行在特定版本的Windows之上。     
+
+动态查找函数地址将在之后的教程中讲解。      
 **让我们开始配置开发环境吧！**
