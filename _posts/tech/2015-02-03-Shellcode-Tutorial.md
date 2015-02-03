@@ -14,7 +14,7 @@ excerpt: Hangzhou
 
 以下是关于**“Shellcode：从入门到精通”**的教程，这些教程会不断的进行更新，所以请确保你所看到的是最终的版本。
 
->[Shellcode Tutorial 1: Introduction and Tools Setup]()    
+>[Shellcode Tutorial 1: Introduction and Tools Setup](http://www.llokt.com/Kevin/2015/02/Shellcode-Tutorial-1-Introduction-and-Tools-Setup/)    
     对Shellcode进行一个简单的介绍，然后一步一步的搭建你自己的开发环境。
 
 >[Shellcode Tutorial 2: My First Simple Shellcode]()    
