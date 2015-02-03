@@ -8,32 +8,35 @@ tags:
 - Translation
 excerpt: Hangzhou
 ---
+**这一系列的教程，翻译自:[http://www.projectshellcode.com](http://www.projectshellcode.com)**    
+**之所以想翻译这些文章，一是网上的翻译不是很好，二是方便大家学习，发扬极客精神。**    
+**翻译的不足的地方，请见谅！**
 
-The following are tutorials on how to write shellcode for beginners through to advanced. These tutorials are continually being expanded so make sure to check back to stay up to date with the latest tutorials.
+以下是关于**“Shellcode：从入门到精通”**的教程，这些教程会不断的进行更新，所以请确保你所看到的是最终的版本。
 
 >[Shellcode Tutorial 1: Introduction and Tools Setup]()    
-    **Gives an intro into shellcode and steps you through setting up your environment.**
+    **对Shellcode进行一个简单的介绍，然后一步一步的搭建你自己的开发环境。**
 
 >[Shellcode Tutorial 2: My First Simple Shellcode]()    
-    **Steps you through creating and testing very simple shellcode.**
+    **创建和测试一个简单的Shellcode。**
 
 >[Shellcode Tutorial 3: Windows Command Execution Shellcode]()    
-    **Define and locate a string constant, and use it to create a new administrative Windows user.**
+    **定义和定位一个字符串常量,并使用它来创建一个新的具有管理员权限的Windows用户。**
 
 >[Shellcode Tutorial 4: Message Box Shellcode]()    
-    **Teaches you how to load libraries, call simple functions, and execute them.**
+    **教你如何加载库，调用简单的函数以及如何执行它们。**
 
 >[Shellcode Tutorial 5: Function Hash Generation]()    
-    **Defining and using constants, more complex functions, generating function hashes, and an introduction to OllyDbg!**
+    **定义和使用常量、更为复杂的函数，生成函数hash以及对OllyDbg进行简单的介绍。**
 
 >[Shellcode Tutorial 6: Dynamic Shellcode]()    
-    **Dynamically locate Kernel32 and function addresses. No more hardcoded addreses!**
+    **动态定位Kernel32和函数地址。不再是硬编码地址！**
 
 >[Shellcode Tutorial 7: Introduction to Sockets - Portbind Shellcode]()    
-    **Dynamic shellcode that loads ws2_32.dll and creates a listening port that provides a command shell to remote users.**
+    **动态Shellcode：加载ws2_32.dll，创建一个给远程用户提供命令窗口的监听端口。**
 
 >[Shellcode Tutorial 8: Introduction to Networking - Connectback Shellcode]()    
-    **Dynamic shellcode that initializes a connection back to the attacker and connects them to a command shell on the compromised system.**
+    **动态Shellcode：初始化一个反向链接，然后将它们连接到被破坏的系统的命令窗口。**
 
 >[Shellcode Tutorial 9: Generating Shellcode Using Metasploit]()    
-    **Use the Metasploit Exploit Framework web interface and msfpayload command to generate various shellcode for different platforms in a range of formats.**
+    **使用Metasploit Exploit框架的Web接口和msfpayload命令，针对不同格式的平台生成各种各样的Shellcode。**
