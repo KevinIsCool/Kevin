@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shellcode Tutorial 1: Introduction and Tools Setup
+title: Shellcode Tutorial 1 - Introduction and Tools Setup
 logo: 
 category: tech
 tags:
