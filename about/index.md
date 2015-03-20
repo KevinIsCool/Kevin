@@ -7,7 +7,7 @@ comments: yes
 ![hi]({{ site.url }}/images/201412/Lavandula.jpg)    
 
 ---------
->Twittwr: 	[@llokt](https://twitter.com/llokt)     
+>Twitter: 	[@llokt](https://twitter.com/llokt)     
 >Weibo：		[llokt](weibo.com/waybackinto)      
 
 ***
