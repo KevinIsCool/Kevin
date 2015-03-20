@@ -8,7 +8,7 @@ comments: yes
 
 ---------
 >Twitter: 	[@llokt](https://twitter.com/llokt)     
->Weibo：		[llokt](weibo.com/waybackinto)      
+>Weibo：		[llokt](http://weibo.com/waybackinto)      
 
 ***
 >hi U.    
