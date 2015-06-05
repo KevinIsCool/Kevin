@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://www.llokt.com/Kevin
-author: Kevin
+author: k3Vin
 lsi: false
 pygments: true
