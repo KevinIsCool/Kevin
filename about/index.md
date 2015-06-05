@@ -12,6 +12,6 @@ comments: yes
 >GitHub： 	[KevinIsCool](https://github.com/KevinIsCool)   
 
 ***
->hi U.    
+>**You have a dream, you gotta protect it!   **
 
 ***
