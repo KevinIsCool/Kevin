@@ -12,7 +12,7 @@ comments: no
 >
 >
 
->> *Let hannahlavender.com take a  break!*
+> *Let hannahlavender.com take a  break!*
 
 
->**You have a dream, you gotta protect it!   **
+> **You have a dream, you gotta protect it!   **
