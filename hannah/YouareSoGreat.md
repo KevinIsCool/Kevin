@@ -8,11 +8,9 @@ comments: no
 
 ---------
 
-> **I Still！**    
+> ##**You have a dream, you gotta protect it!**    
 >
 >
 
-> *Let hannahlavender.com take a  break!*
-
-
-> **You have a dream, you gotta protect it!   **
+> *Let hannahlavender.com take a  break!*    
+> 
