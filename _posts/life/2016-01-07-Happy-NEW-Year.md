@@ -17,7 +17,7 @@ excerpt: BeingJing
 
 也许，想走就走啊；也或许，有机会吧。可不论是什么时候，我想总是会来的，等到那一天，好好享受！    
 
-![](http://www.llokt.com/Kevin/images/201601/SEA.jpg)    
+![](http://www.llokt.com/Kevin/images/201601/SEA.jpg)       
 
 哪天，应该去看看大海，见过大山大河，却不等邂逅大海！体会一下面朝大海，春暖花开。    
 
