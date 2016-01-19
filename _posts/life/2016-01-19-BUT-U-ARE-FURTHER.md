@@ -15,8 +15,9 @@ excerpt: BeingJing
 
 也许我真的知道这应该是剩下的几年时间了，只是我也不知道还有几年，只是心里默默地期望着时间能够久一点，多一点时间，多给我留一点美好的记忆。    
 
+![](http://www.llokt.com/Kevin/images/2016/MISSU.jpg)
+
 可是，时间好像越来越少了。      
 
 不过还好，明天，我还是可以给你打一通电话。
 
-![](http://www.llokt.com/Kevin/images/2016/MISSU.jpg)
