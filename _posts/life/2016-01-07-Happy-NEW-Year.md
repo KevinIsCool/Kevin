@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 源自遥远的你
-logo: http://www.llokt.com/Kevin/images/2016/K33PG01NG.jpg
+logo: http://www.llokt.com/images/2016/K33PG01NG.jpg
 category: Life
 tags:
 - HAPPY
